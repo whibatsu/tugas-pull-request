@@ -2,4 +2,5 @@ function login(){
 	ini adalah fungsi untuk login;
 	fitur login otp;
 	fitur login facebook;
+	fitur login google;
 }
