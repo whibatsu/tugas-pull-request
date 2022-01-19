@@ -1,4 +1,5 @@
 function register(){
 	ini adalah fungsi untuk register;
 	fitur register otp;
+	fitur register facebook;
 }
